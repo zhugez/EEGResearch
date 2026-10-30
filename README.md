@@ -90,4 +90,4 @@ If you use this code or dataset preprocessing, please cite:
 ---
 
 ## 📜 License
-Distributed under the **Apache 2.0 License**. See [LICENSE](./LICENSE) for details.
+Distributed under the **GPL-3.0 License**. See [LICENSE](./LICENSE) for details.
